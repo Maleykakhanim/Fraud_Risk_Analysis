@@ -3,7 +3,7 @@
 
 # 🌐 Fraud Riskinin Analizi — SQL Layihəsi
 
-Bu layihə bank sektorunda fırıldaqçılıq (fraud) əməliyyatlarını aşkar etmək və riskləri qiymətləndirmək üçün SQL üzərində hazırlanmış analitik bir tədqiqatdır. Layihədə real bank tranzaksiya strukturu modelləşdirilmiş və müxtəlif SQL texnikaları istifadə edilərək dərin analiz aparılmışdır.
+Bu layihə bank sektorunda fırıldaqçılıq əməliyyatlarını aşkar etmək və riskləri qiymətləndirmək məqsədi ilə SQL üzərində qurulmuş analitik araşdırmadır. Real bank tranzaksiyalarına uyğun məlumatlar əsasında müxtəlif SQL metodları tətbiq edilərək dərin analiz aparılmışdır.
 
 ## 📌 Layihənin Məqsədi
 
